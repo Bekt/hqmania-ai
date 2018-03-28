@@ -1,0 +1,16 @@
+{ type: 'question',
+  ts: '2018-03-04T02:04:11.310Z',
+  totalTimeMs: 10000,
+  timeLeftMs: 10000,
+  questionId: 28039,
+  question: 'What cream is typically used to remove a beard or mustache?',
+  category: 'Educational',
+  answers:
+   [ { answerId: 86023, text: 'Shaving cream' },
+     { answerId: 86024, text: 'Sour cream' },
+     { answerId: 86025, text: 'Krispy Kreme' } ],
+  questionNumber: 1,
+  questionCount: 12,
+  askTime: '2018-03-04T02:04:11.310Z',
+  c: 3,
+  sent: '2018-03-04T02:04:11.387Z' }

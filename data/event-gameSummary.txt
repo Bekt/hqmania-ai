@@ -1,0 +1,14 @@
+{ type: 'gameSummary',
+  ts: '2018-03-04T02:13:51.922Z',
+  showId: 3696,
+  winners:
+   [ { name: 'woodmeistr',
+       id: 12927940,
+       avatarUrl: 'https://d2xu1hdomh3nrx.cloudfront.net/a/92/12927940-XTpYCG.jpg',
+       prize: '$1.97',
+       wins: 0 }
+    ],
+  numWinners: 1267,
+  youWon: false,
+  c: 6,
+  sent: '2018-03-04T02:13:52.580Z' }
