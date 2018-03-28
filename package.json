@@ -1,0 +1,9 @@
+{
+  "name": "hqmania",
+  "version": "1.0.0",
+  "description": "HQ Mania AI challenge",
+  "dependencies": {
+    "axios": "0.18.x",
+    "ws": "4.1.x"
+  }
+}
